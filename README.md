@@ -38,4 +38,4 @@ Coming soon!
 
 This repository and all content within it is subject to copyright and not to be redistributed without the consent of the author. If you want to use or distribute this document, just contact me and we can discuss it.
 
-© 2017 Karl Hughes <khughes.me@gmail.com>
+> © 2017 Karl Hughes <khughes.me@gmail.com>
