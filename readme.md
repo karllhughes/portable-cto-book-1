@@ -1,6 +1,8 @@
 # Patterns for Startup CTOs
 
-The goal of this text is to provide a set of patterns for CTOs, engineers, or product managers at early stage startups. This advice comes from my personal experience leading small engineering teams at seed-funded technology companies as well as from countless conversations with peers and mentors in similar roles.
+The goal of this text is to provide a set of workflows, processes, and patterns for CTOs, engineers, or product managers at early stage startups. This advice comes from my personal experience leading small engineering teams at seed-funded technology companies as well as from countless conversations with peers and mentors in similar roles.
+
+Each section has several chapters roughly the length of a typical blog post. You can read all of the patterns front-to-back, but more likely, you'll want to jump into those most applicable to your current needs. That's fine too. Enjoy!
 
 
 ## Index
