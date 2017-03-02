@@ -42,27 +42,48 @@ Once again, I've rarely seen an early stage startup with a dedicated QA team or 
 
 ### 8. DevOps
 
-------
+Getting code from the engineers' computers to the servers was once a challenging task, but as automation tools have gotten better, it's possible for developers to spend very little time deploying their code. Still, someone has to own this process, and that will likely fall to the CTO.
 
 ### 9. Data management
 
-Big data is hot right now, but data scientists are a luxury that smaller startups usually have to wait on. Even if you can collect millions of data points on your customers, it's useless without a CTO who can come up with a decent system for storing and accessing this data securely.
+Big data is hot right now, but data scientists are a luxury that smaller startups usually have to wait on. Even if you can collect millions of data points on your customers, it's useless without someone who can come up with a decent system for storing and accessing this data securely.
 
 ### 10. Vendor relationships
 
-We live in an API-driven world as developers. I can't remember the last time I built a project that didn't connect to at least two or three third party services from Google Analytics to Cloud SQL servers to Amazon S3. It's awesome to have so much power at your fingertips as a developer, but as a CTO it's a lot to manage. You have to know who's updated which libraries, which plan you signed up for, and who's got access to your secret keys.
+We live in an API-driven world. Most software products connect to at least two or three third party services. It's awesome to have so much power at your fingertips as a developer, but as a CTO it's a lot to manage. You have to know who's updated which libraries, which plan you signed up for, and who's got access to your secret keys.
 
-### 11. Overseeing the version 2.0
+### 11. Human resources
 
-At some point in a startup's life-cycle it comes time to rebuild the MVP that is now likely being stretched way beyond its initial use case. Unless your startup has grown incredibly fast or you've pushed this step off for an extra long time, your CTO will probably be doing most of the planning work on this version as well. By this point, his role will be different than it was during the MVP days; now he'll have to manage a team of people rather than build it all himself.
+[Managing the growth of a technology team is really hard](http://www.bersin.com/blog/post/2014/07/How-Do-We-Excite2c-Manage2c-and-Retain-the-Tech-Team.aspx). At the beginning you can excite your employees by offering them cool projects with lots of technical challenges, but eventually you'll have to attract more specialized people with benefits, vacation days, and career advancement. You'll also have to make sure people are satisfied in their jobs, that interpersonal issues are handled, and that employees feel valued.
 
-### 12. Team growth management
+All of the above roles will be your responsibility at different times as the CTO of a startup, but these roles won't all be necessary at the same time.
 
-Another reason that startup CTO's are rarely the same people who work as big company CTO's is that [managing growth of technology team is really hard](http://www.bersin.com/blog/post/2014/07/How-Do-We-Excite2c-Manage2c-and-Retain-the-Tech-Team.aspx). At the beginning you could excite your employees by offering them cool projects with lots of technical challenges. Now you've got to attract more specialized people with benefits, vacation days, and career advancement. Managing growth with 100 employees is totally different than managing growth with 5. 
+You can think of your role as a circle, where your responsibilities lie on the outer edge of the circle. As the technology team grows, the CTO can back out into bigger picture items, and leave the day-to-day tasks that he initially did to employees whom he trains along the way.
 
-### 13. Employee retention
+### Circles of responsibility
 
-Tech workers have options, so it's rare to keep one for more than 2 or 3 years these days. That means that as your startup exits the "tiny startup" phase and enters the "mid-sized startup" phase it's likely that your CTO will start dealing with some churn. Early employees yearn for the excitement of their first months with the company and start looking for new challenges or founding their own companies. The CTO who originally started building this thing alone in his apartment is now trying to convince his best talent to stay and minimize turnover.
+--- DIAGRAM: Circles of responsibility ---
 
+Outer edge phase 1
+- design
+- code architecture
+- framework/language
+- database
+- user experience
+
+Outer edge phase 2
+- product management
+- development cycles
+- specifications
+- testing
+- devops/deployments
+- hiring/retention
+
+Outer edge phase 3
+- product/technology vision
+- technology partnerships
+- cost management
+- team construction
+- outreach
 
 As the company grows, the CTO will ideally transition out of a hands-on role and into a true upper management position. Throughout the rest of this text, I hope to give you some tools that will help you make that transition, but it all starts with personal efficiency.
