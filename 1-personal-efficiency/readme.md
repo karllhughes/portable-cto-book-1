@@ -62,28 +62,6 @@ You can think of your role as a circle, where your responsibilities lie on the o
 
 ### Circles of responsibility
 
---- DIAGRAM: Circles of responsibility ---
-
-Outer edge phase 1
-- design
-- code architecture
-- framework/language
-- database
-- user experience
-
-Outer edge phase 2
-- product management
-- development cycles
-- specifications
-- testing
-- devops/deployments
-- hiring/retention
-
-Outer edge phase 3
-- product/technology vision
-- technology partnerships
-- cost management
-- team construction
-- outreach
+![](https://i.imgur.com/7qlleuE.png)
 
 As the company grows, the CTO will ideally transition out of a hands-on role and into a true upper management position. Throughout the rest of this text, I hope to give you some tools that will help you make that transition, but it all starts with personal efficiency.
