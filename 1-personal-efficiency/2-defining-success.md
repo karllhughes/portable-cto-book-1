@@ -1,0 +1,3 @@
+# 2. Defining Success
+
+Now that you know a little more about your role as a startup CTO, let's look at what it takes to be successful in the role...
