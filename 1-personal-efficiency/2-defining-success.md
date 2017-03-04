@@ -19,7 +19,9 @@ So there are two levels of success for an executive at a startup:
 1. The success of your company
 2. The personal success of the founder
 
-You can easily find personal success without starting a successful company because you have [a great degree of control over your own personal success](https://www.karllhughes.com/posts/success-is-in-your-attitude) while your startup's success is [dependant on many factors you cannot control](https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed).
+You can easily find personal success without starting a successful company because you have [a great degree of control over your own personal success](https://www.karllhughes.com/posts/success-is-in-your-attitude), while your startup's success is [dependant on many factors you cannot control](https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed). In the long-term, the success of one or more companies that you start or work far is far less important than your personal success.
+
+## Personal Success
 
 - Prime your Attitude: accept the change
 - Consider the long-term, [visualizing success](https://www.entrepreneur.com/article/242373)
