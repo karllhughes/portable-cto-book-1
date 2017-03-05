@@ -19,12 +19,32 @@ So there are two levels of success for an executive at a startup:
 1. The success of your company
 2. The personal success of the founder
 
-You can easily find personal success without starting a successful company because you have [a great degree of control over your own personal success](https://www.karllhughes.com/posts/success-is-in-your-attitude), while your startup's success is [dependant on many factors you cannot control](https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed). In the long-term, the success of one or more companies that you start or work far is far less important than your personal success.
+You can easily find personal success without starting a successful company because you have [a great degree of control over your own personal success](https://www.karllhughes.com/posts/success-is-in-your-attitude), while your startup's success is [dependant on many factors - some of which you cannot control](https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed). In the long-term, the success of one or more companies that you start or work for is far less important than your personal success, but most of this book is about the technical and non-technical work you can do to help make your company successful. For the remainder of this section, we'll be talking about habits and patterns you can develop for your own personal success and efficiency.
 
 ## Personal Success
 
-- Prime your Attitude: accept the change
-- Consider the long-term, [visualizing success](https://www.entrepreneur.com/article/242373)
-- Revisit goals
-- Define yourself beyond your company
-- Seek balance (more on this later)
+It's hard for entrepreneurs - especially those early in their career - to separate themselves from their companies. When I first joined a startup in 2012 I was one of six full-time team members. I would work on projects 10 to 12 hours per day, then answer emails and catch up on administrative work after that. When users were critical of the company or our products, I took it personally, and if my ideas didn't work out, I had trouble admitting that they failed so I stuck with them for way too long.
+
+Looking back, I can see that this stemmed from my personal insecurities and the thought that if I started my career with a startup that failed, I'd go nowhere. I was naive, out of balance, and unsatisfied with my career.
+
+After a few years as a member of early stage companies, I have realized that startups come and go, but your health, sanity, and happiness are going to stick with you for as long as you live. You can neglect your personal success in favor of helping your company succeed, but only for a time. I don't believe that in order to work at a startup you have to throw your life completely out of balance, and in fact, I believe that the best and happiest startup employees have realized how to focus on their business while maintaining a successful personal life as well.
+
+## Patterns for Personal Success
+
+If you're looking to find some balance in your life as a CTO, there are some patterns that can help you. These are mindset changes that won't happen overnight, so just reading this chapter probably won't change your world. You may not really absorb them until you've tried it your own way, and maybe you'll strike a balance without them, but here's what I have tried to do to balance my personal success with that of my startup's.
+
+### 1. Develop an Attitude that Change is Okay
+
+
+### 2. Think in Terms of Long-Term Success
+[visualizing success](https://www.entrepreneur.com/article/242373)
+
+
+### 3. Create Goals Outside Your Business
+
+
+### 4. Define Yourself Beyond Your Company
+
+
+### 5. Seek Balance
+more on this later...
