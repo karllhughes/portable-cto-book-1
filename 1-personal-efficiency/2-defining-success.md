@@ -33,10 +33,16 @@ After a few years as a member of early stage companies, I have realized that sta
 
 If you're looking to find some balance in your life as a CTO, there are some patterns that can help you. These are mindset changes that won't happen overnight, so just reading this chapter probably won't change your world. You may not really absorb them until you've tried it your own way, and maybe you'll strike a balance without them, but here's what I have tried to do to balance my personal success with that of my startup's.
 
-### 1. Develop an Attitude that Change is Okay
+### 1. Changes Happen
 
+If you're used to working in larger organizations, it can be hard to get used to the pace of change in startups. Not only will your company's priorities change as it finds [product-market fit](https://medium.com/evergreen-business-weekly/product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it-70e746be907b#.kmwez7gcm), you'll be faced with new opportunities that will change your roadmap, you'll lose key employees and velocity without warning, your company's founders will come up with new ideas to chase, or someone will want to chase the latest technology craze.
+
+While it's not responsible to let all these things happen at once - too much change is bad for any team or business - some change is inevitable in an early stage company. Your attitude should be that change is okay. Make it your mission to be the voice of calm in stormy seasons; keep meetings focused even when it seems like the sky is falling; be ready to ride the waves of change.
+
+There are many things you can do to deal with change in your company. At their heart, many of the personal and product development topics in this book boil down to managing changing priorities in a sane and organized way. Just because things are in turmoil doesn't mean that you have to just let them fall apart.
 
 ### 2. Think in Terms of Long-Term Success
+
 [visualizing success](https://www.entrepreneur.com/article/242373)
 
 
