@@ -43,14 +43,18 @@ There are many things you can do to deal with change in your company. At their h
 
 ### 2. Think in Terms of Long-Term Success
 
-[visualizing success](https://www.entrepreneur.com/article/242373)
+When you're running the day-to-day technology operations inside a small business, it's often easy to miss the forest for the trees. Today's problems often overshadow the long-term vison for the company and even your long-term personal success.
 
+One habit I've gotten into to help keep my brain focused on the long-term is to frequently [visualize what success looks like in the long-term](https://www.entrepreneur.com/article/242373). For me, that long-term success is leading a team in a stable business that I helped build, doing work I love, inspiring and teaching others, and being able to balance a healthy, happy home life. When I get worried about the tiny day-to-day problems that any startup CTO faces - bugs, data loss, downtime - I pull back and ask myself, "Does this really matter that much in my vision for long-term success?" The answer is frequently, "No."
 
 ### 3. Create Goals Outside Your Business
 
+If you had to write down five goals for yourself this year, what would they be? Hire a new employee? Finish a big project? Get out from under your legacy code? Write more unit tests?
 
-### 4. Define Yourself Beyond Your Company
+All of these are fine goals (although a couple lack the specificity of [SMART goals](https://www.projectsmart.co.uk/smart-goals.php)), but what about setting some goals outside your startup?
+
+If you're a founder or early employee, you probably tie much of your personal success to that of your business, but this will lead you take things too personally and prevent you from making objective leadership decisions. Your company should be just one of the areas of your life from which you set goals.
+
+### 4. Seek Balance
 
 
-### 5. Seek Balance
-more on this later...
