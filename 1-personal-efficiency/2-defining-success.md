@@ -55,6 +55,22 @@ All of these are fine goals (although a couple lack the specificity of [SMART go
 
 If you're a founder or early employee, you probably tie much of your personal success to that of your business, but this will lead you take things too personally and prevent you from making objective leadership decisions. Your company should be just one of the areas of your life from which you set goals.
 
-### 4. Seek Balance
+### 4. Schedule Time for Balance
 
+If you are keeping personal goals outside your company, you will have to schedule time to achieve your non-business goals. That's where scheduling comes in.
 
+Look at your typical work week: When do you go into the office every morning? What would happen if you came in 15 minutes later and ran one mile before work? When do you leave the office every evening? What if you left 10 minutes earlier to stop by the grocery store and get something healthy for dinner instead of ordering takeout or heating up a frozen meal?
+
+Scheduling goes beyond health though. If you've got a family, friends, or other hobbies, you'll have to make time for them somehow. If you aren't doing it intentionally it's easy to fall into the trap of always working.
+
+We'll explore more about balance in a later chapter, but you probably can free up more time that you never knew you had. In the chapter on Personal Efficiency, we'll explore how batching tasks, focusing on the most important work, and delegating effectively will let you free up more time that you never knew you had.
+
+### 5. Consistency Over Time
+
+"Patience, persistence and perspiration make an unbeatable combination for success." - Napoleon Hill, Author of Think and Grow Rich
+
+Finally, the most important element to personal and professional success that I've found is consistentcy over time.
+
+We all know that it's good to eat healthy food right? Yet having a salad once a month won't do much of anything for you. As a software engineer, you've probably heard that you have to keep learning new things throughout your career, right? That's great, but reading a couple books every year likely won't be enough. You're going to need to eat that salad every day for six months or practice that new programming tool every week for a year to really master it.
+
+This principle of consistency over time carries over into both your professional and personal success, and it's what makes many of the most successful entrepreneurs and leaders attribute their success to.
