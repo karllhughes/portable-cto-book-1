@@ -8,12 +8,9 @@ Success doesn't mean you achieve everything you want right now. Play the long-ga
 - https://www.karllhughes.com/posts/how-startups-know-when-theyve-got-the-technology-right
 - https://www.karllhughes.com/posts/pursue-your-passion-period
 
-### Personal Efficiency
+### Batching, focusing, delegating
 - https://en.wikipedia.org/wiki/Personal_software_process
-- batching tasks, focusing on the most important work, and delegating effectively
 - 4-Hour workweek
-
-### Focusing on one thing
 - Write down ideas, don't pursue them immediately
 - https://www.karllhughes.com/posts/training-for-focus-four-ways-eyes-big-picture
 - Personal kanban
