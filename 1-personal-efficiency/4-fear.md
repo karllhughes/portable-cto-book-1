@@ -33,3 +33,19 @@ Going back to my point in chapter 2, most of the little decisions you make durin
 Finally, I am honest with my teammates in one-on-ones and group settings. When I don't know the best decision to make, I tell them. This is a sign of humanity, not weakness, and it increases their empathy for you as a leader. It also gives them a chance to step up and help you out if they know you feel a bit overwhelmed.
 
 ## Uncertainty
+
+Leaders often must make decisions with incomplete information. When I joined The Graide Network in 2016, I spent a lot of time talking with the founders about the requirements of their platform. The first version was unreliable and had fundamental flaws in the way data was stored, so like many companies dealing with a legacy software stack, we faced a choice between rebuilding or refactoring.
+
+Rebuilding meant we could throw the mess out and restart the project based on the features we knew it had to have. We could eliminate inefficiencies, unit test everything, and in three to six months, probably be back where we started.
+
+Refactoring would be a longer, but likely safer road. Every project has the spec that engineers know about and the spec that is locked away in the business team's mind. What I mean is that even if we attempted to catalog all the features of The Graide Network's platform, we'd constantly be discovering or remembering new ones.
+
+This system was over a year old and had undergone many upgrades, so things were patched on top of each other in a way that made relying on the code for spec nearly impossible. Rebuilding from the ground up would likely take longer than we thought, and making reasonable estimates was impossible. Plus, we'd have to maintain the older system while the new one came online, and that would only slow things down more.
+
+I did not have a template for dealing with this kind of problem yet, and the rest of my team was not technical, so they really didn't know where to start. This wasn't my first time dealing with uncertainty though, so I had an idea of where to start with making this decision.
+
+### 1. Gather details
+
+### 2. Talk to your mentors
+
+### 3. Balance reasoning with your gut
