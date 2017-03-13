@@ -46,6 +46,24 @@ I did not have a template for dealing with this kind of problem yet, and the res
 
 ### 1. Gather details
 
+Details of a problem come in two flavors: technical and non-technical. Gathering them can mean talking to team members or customers, reading articles or books, or even trying one or two things out. Pulling together information is a great first step in conquering uncertainty, but here's the catch: you have to set a limit for yourself.
+
+"[Analysis paralysis](https://www.forbes.com/sites/jeffboss/2015/03/20/how-to-overcome-the-analysis-paralysis-of-decision-making/#90402931be5a)" is a term used for being unable to act because you're so focused on gathering or analyzing data that you can't commit to a path. The reason you don't want the detail gathering phase of your decision making to take too long is that at a certain point, you really can't absorb and weigh any more information than you already have. Set yourself a time limit, go learn all you can about your problem, then move on.
+
 ### 2. Talk to your mentors
 
+While a great mentor might not have a solution to your particular problem, they'll usually help you put it into perspective or help you remember your priorities.
+
+A while back I was weighing letting an employee go. He was hired to do a very specific job and was mostly self-managing his priorities and timeline (that hire itself was a mistake on my part, but that's another story). He had made some progress, but he was constantly overbuilding things, and it was a huge drain on our velocity. We were a startup, so perfection wasn't the goal; pragmatism was.
+
+Anyway, I met with a couple of my mentors about it, and one of them immediately pointed out my flaw in hiring him. "You hired someone to do X? And you've only got 6 engineers? No, no, no. Quit that now."
+
+The employee's performance was my concern, but in reality, the biggest problem was that I had hired someone for a job that wasn't necessary yet. Stepping back and hearing this from someone who had more experience and wisdom than me was of huge value.
+
 ### 3. Balance reasoning with your gut
+
+In Richard Wiseman's _The Luck Factor_, one of the things that he found in common among lucky people was that they knew when to listen to their "gut" rather than reasoning through every problem completely. Like any common muscle action - typing on a keyboard, turning a page in a book, or putting on your clothes - your brain has learned to put these tasks on auto-pilot. You don't really think about them. At a certain point, your brain relies on this same auto-pilot to help it make decisions based on past experiences you've had that you don't even consciously remember.
+
+I know that as a first-time engineering manager or CTO, you might not think your gut is the best decision-maker, but you might also be surprised. Many of the same problems you faced as a software engineer or team lead have prepared you for making good gut decisions.
+
+Most importantly, remember that fear, uncertainty, and imposter syndrome or normal reactions to taking on a new role. Your brain is telling you to back off and go back to something comfortable. Don't let this hold you back. Learn to face struggles with action and keep moving forward. It only gets easier.
