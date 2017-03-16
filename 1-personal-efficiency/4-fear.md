@@ -1,4 +1,4 @@
-# Dealing with Fear and Uncertainty
+# 4. Dealing with Fear and Uncertainty
 
 I remember vividly the feeling I got when I was put in charge of my first real team of engineers. I got pulled into an unscheduled meeting with our CEO and COO on a Wednesday afternoon. They told me that my boss - our company's Head of Engineering - was leaving in two weeks and that they wanted me to take over his role.
 
