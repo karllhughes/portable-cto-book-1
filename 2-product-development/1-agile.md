@@ -6,9 +6,36 @@ I'm not an expert in Agile, but you don't have to be in order to lead a team of 
 
 ## What is Agile?
 
-## Scrum
+When people first started building software in a corporate setting, the experience was wildly different than it is today. Legendary software book, [The Mythical Man-Month](http://amzn.to/2nCT4dj) talks about writing reams of documentation, waiting hours or days for code to compile, and programming via hand-written or typed instructions. In addition to the challenges engineers faced in constructing and compiling their code, the mediums they had available to distribute it were much slower than they are today. People relied on physical tapes, disks, or drives to send software to customers, so upgrading wasn't a trivial task.
 
-## Kanban
+Naturally, the only way to release software with these technical limitations in place was with large-scale, thoroughly-tested releases. This method of completing a large number of features and bug fixes before a distant release date (usually 3-12 months away) is known as the "waterfall" method, and until software updates became more trivial thanks to the internet, it was pretty much the way all commercial software was built.
+
+As the first dotcom bubble burst in the early 2000s, a wave of overfunded tech companies fell, and software developers started exploring new release cycles and methodologies. Because engineers and managers with varied backgrounds now had the ability to communicate and pass information around more quickly, some of the best ideas started to get used more widely. In 2001, a [group of these software thinkers](http://agilemanifesto.org/history.html) came together and wrote the first "Agile Manifesto."
+
+Agile itself does not dictate a specific workflow or outline steps to take to release software. The Agile Manifesto is instead a listing of priorities that the software developers who wrote it believed were most important. It has since been adopted by countless companies and spun out dozens of frameworks - some more rigid than others. The Agile Software Development Manifesto reads\*:
+
+> We are uncovering better ways of developing software by doing it and helping others do it. Through this work, we have come to value:
+>
+> - _Individuals and interactions_ over processes and tools
+> 
+> - _Working software_ over comprehensive documentation
+>
+> - _Customer collaboration_ over contract negotiation
+>
+> - _Responding to change_ over following a plan
+> 
+> That is, while there is value in the items on the right, we value the items on the left more.
+
+So in theory Agile sounds great, right? But how can you actually use it in the day-to-day operations at your startup? What does it mean to collaborate with customers and respond to change? How can Agile actually help you make a more successful company faster?
+
+That's where the various Agile methodologies can help you. I won't cover all of them here, but I'll try to offer a brief overview of three of the most common, and hopefully give you enough information that you can start researching them more for yourself.
+
+
+### Scrum
+
+### Extreme Programming
+
+### Kanban
 
 While not mutually exclusive with Scrum, Kanban is another Agile method based on [a Japanese lean manufacturing system](https://leankit.com/learn/kanban/what-is-kanban/). When applied to software development, [Kanban helps visualize work](https://www.themuse.com/advice/an-underrated-way-for-engineering-teams-to-improve-their-workflow) as it flows through steps in a system and limits the amount of work that is in progress at any given time.
 
@@ -43,3 +70,8 @@ When you have completed work on the card, move it to “Testing” where another
 #### Column 6: Deployed
 
 Another defining feature is that work should be delivered continually to a staging or production environment. This column allows anyone on the team to see what work has been released recently.
+
+-----
+\* ©Agile Manifesto Copyright 2001: Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas.
+
+This declaration may be freely copied in any form, but only in its entirety through this notice.
