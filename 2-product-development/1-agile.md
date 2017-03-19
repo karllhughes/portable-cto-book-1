@@ -33,6 +33,34 @@ That's where the various Agile methodologies can help you. I won't cover all of 
 
 ### Scrum
 
+Scrum is probably the most commonly used an Agile framework. A lot of people immediately think of Scrum when they hear Agile, but it's not the only way to follow the manifesto as we will see. Still, Scrum can be a great framework for project management, especially in larger projects with more clear beginning and endpoints.
+
+Scrum uses [ome terminology that's important to understand first. This makes it a little intimidating to outsiders, but it's really not too complicated. I'm not going to try to cover everything involved in Scrum as that's worthy of a book in itself (check out [Essential Scrum](http://amzn.to/1JQvi0X) if you're interested), but I will attempt to give you a quick overview.
+
+#### The Sprint Process
+
+A "sprint" is a set time period (usually between 1 week and 4 weeks) where work will be done. At the beginning of the sprint, you should have well-developed requirements for each feature to be worked on, and at the end you should have working software that meets those requirements and is ready to be released. Here are the meetings usually held within each sprint:
+
+##### Sprint Planning Meeting
+
+##### Daily Scrum
+
+##### Sprint Review/Demo
+
+##### Sprint Retrospective
+
+
+#### Scrum Team
+
+##### Product Owner
+
+##### Development Team
+
+##### Scrum Master
+
+While you can really dig in and make yourself an expert in Scrum, I don't think that's the best way for a startup CTO to spend his time. You're more likely to borrow pieces of Scrum that help you depending on where you are in your company's lifetime. As you get larger and more rigid processes become important, consider getting deeper training in Scrum, sending one of your team members to train in it, or hiring a Scrum Master to help you.
+
+
 ### Extreme Programming
 
 ### Kanban
