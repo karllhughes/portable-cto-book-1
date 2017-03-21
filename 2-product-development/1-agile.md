@@ -39,11 +39,15 @@ Scrum uses [ome terminology that's important to understand first. This makes it 
 
 #### The Sprint Process
 
-A "sprint" is a set time period (usually between 1 week and 4 weeks) where work will be done. At the beginning of the sprint, you should have well-developed requirements for each feature to be worked on, and at the end you should have working software that meets those requirements and is ready to be released. Here are the meetings usually held within each sprint:
+A "sprint" is a set time period (usually between 1 week and 4 weeks) where work will be done. At the beginning of the sprint, you should have well-developed requirements for each feature to be worked on, and at the end you should have working software that meets those requirements and is ready to be released. Along the way, there are a few standard meetings to help facilitate this.
 
 ##### Sprint Planning Meeting
 
+To kick off the sprint, everyone with a stake in the product at hand will gather together to hash out the details of what's going to be done during the work phase of the sprint. During this meeting, the Product Owner (described below) will present the most important items to be done - in order - to the team, and work out any details or clarifying points. The Development Team will then estimate each piece of work based on what they now know about it. Planning and estimating work is a huge but important step in the Scrum process, so this meeting [can take between two and eight hours](https://www.mitchlacey.com/intro-to-agile/scrum/sprint-planning-meeting).
+
 ##### Daily Scrum
+
+Typically Scrum teams meet daily in a short Scrum or "standup". The purpose of this meeting is to ensure that everyone on the team has the opportunity to let everyone else know what they're working on, and to ensure that anything blocking a team member is resolved. The meeting should be quick - thirty minutes or less - so you shouldn't try to solve problems, but rather assign follow-up meetings to do so.
 
 ##### Sprint Review/Demo
 
