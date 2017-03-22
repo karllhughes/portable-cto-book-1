@@ -12,7 +12,7 @@ Naturally, the only way to release software with these technical limitations in 
 
 As the first dotcom bubble burst in the early 2000s, a wave of overfunded tech companies fell, and software developers started exploring new release cycles and methodologies. Because engineers and managers with varied backgrounds now had the ability to communicate and pass information around more quickly, some of the best ideas started to get used more widely. In 2001, a [group of these software thinkers](http://agilemanifesto.org/history.html) came together and wrote the first "Agile Manifesto."
 
-Agile itself does not dictate a specific workflow or outline steps to take to release software. The Agile Manifesto is instead a listing of priorities that the software developers who wrote it believed were most important. It has since been adopted by countless companies and spun out dozens of frameworks - some more rigid than others. The Agile Software Development Manifesto reads\*:
+Agile itself does not dictate a specific workflow or outline steps to take to release software. The Agile Manifesto is instead a listing of priorities that the software developers who wrote it believed were most important. It has since been adopted by countless companies and spun out dozens of frameworks - some more rigid than others. The Agile Software Development Manifesto reads: (\*1)
 
 > We are uncovering better ways of developing software by doing it and helping others do it. Through this work, we have come to value:
 >
@@ -37,6 +37,7 @@ Scrum is probably the most commonly used an Agile framework. A lot of people imm
 
 Scrum uses [ome terminology that's important to understand first. This makes it a little intimidating to outsiders, but it's really not too complicated. I'm not going to try to cover everything involved in Scrum as that's worthy of a book in itself (check out [Essential Scrum](http://amzn.to/1JQvi0X) if you're interested), but I will attempt to give you a quick overview.
 
+
 #### The Sprint Process
 
 A "sprint" is a set time period (usually between 1 week and 4 weeks) where work will be done. At the beginning of the sprint, you should have well-developed requirements for each feature to be worked on, and at the end you should have working software that meets those requirements and is ready to be released. Along the way, there are a few standard meetings to help facilitate this.
@@ -45,24 +46,37 @@ A "sprint" is a set time period (usually between 1 week and 4 weeks) where work 
 
 To kick off the sprint, everyone with a stake in the product at hand will gather together to hash out the details of what's going to be done during the work phase of the sprint. During this meeting, the Product Owner (described below) will present the most important items to be done - in order - to the team, and work out any details or clarifying points. The Development Team will then estimate each piece of work based on what they now know about it. Planning and estimating work is a huge but important step in the Scrum process, so this meeting [can take between two and eight hours](https://www.mitchlacey.com/intro-to-agile/scrum/sprint-planning-meeting).
 
+
 ##### Daily Scrum
 
-Typically Scrum teams meet daily in a short Scrum or "standup". The purpose of this meeting is to ensure that everyone on the team has the opportunity to let everyone else know what they're working on, and to ensure that anything blocking a team member is resolved. The meeting should be quick - thirty minutes or less - so you shouldn't try to solve problems, but rather assign follow-up meetings to do so.
+Typically Scrum teams meet daily in a short scrum or "standup". The purpose of this meeting is to ensure that everyone on the team has the opportunity to hear what their colleagues are working on, and to ensure that anything blocking a team member is resolved. The meeting should be quick - thirty minutes or less - so you shouldn't try to solve problems, but rather assign follow-up meetings to do so. There are many variations of the daily scrum including asynchronous or virtual scrums, but the point is to have a time set aside each day to spread information around the team.
 
 ##### Sprint Review/Demo
 
+When the sprint is complete, the development team will hold a demo and review to showcase their work and get signoff before pushing their code live. I believe this is a great time to build trust between the engineering team and the rest of the business, so I've always held demos in a public place where anyone in the company can join.
+
 ##### Sprint Retrospective
+
+Finally, after the demo and possibly the release, the whole team will get together for a sprint retrospective. In this meeting, the team reviews any data they have about their throughput or estimates as well as any feelings they have about the sprint. Usually this meeting centers around "What went well?" or "What could we do better?" questions.
 
 
 #### Scrum Team
 
+Since Agile emphasizes "individuals and interactions" over processes, we should probably talk about the individual roles that make up a Scrum team.
+
 ##### Product Owner
+
+The product owner is usually the business team's representative in the Scrum. Ideally they are the actual end user of the product that is being built, but in larger organizations they're more likely a Product Manager of some sort. In startups they might be the CEO or founder. As long as this point person has the power to make decisions about product tradeoffs, they are the right person for this role.
 
 ##### Development Team
 
+These are the engineers, designers, testers, and operations people required to develop the product. Since every organization's product is different, the development team can look very different at different companies. The development team is responsible for doing work on cards as they move through the sprint.
+
 ##### Scrum Master
 
-While you can really dig in and make yourself an expert in Scrum, I don't think that's the best way for a startup CTO to spend his time. You're more likely to borrow pieces of Scrum that help you depending on where you are in your company's lifetime. As you get larger and more rigid processes become important, consider getting deeper training in Scrum, sending one of your team members to train in it, or hiring a Scrum Master to help you.
+Finally, scrum is facilitated by a scrum master. This person is a leader, but not necessarily the technical expert or highest ranking manager. They just need to be able to keep the process moving and ensure that timeboxed meetings stay on topic.
+
+While you can really dig in and make yourself an expert in Scrum, I don't think that's the best way for you as a startup CTO to spend your time. You're more likely to borrow pieces of Scrum that help you depending on where you are in your company's lifetime. As you get larger and more rigid processes become important, consider getting deeper training in Scrum, sending one of your team members to train in it, or hiring a Scrum Master to help you.
 
 
 ### Extreme Programming
@@ -75,7 +89,7 @@ Kanban means "board" in Japanese, so unsurprisingly, the core element of the sys
 
 ### What Kanban Looks Like
 
-A simple Kanban board might have six columns that show where each piece of work is in the product development cycle. Here's a Kanban board my team might use:
+A simple Kanban board might have six columns that show where each piece of work is in the product development cycle. Here's a Kanban board my team might use: (\*2)
 
 ![](http://i.imgur.com/EyhkfxW.png)
 
@@ -104,6 +118,6 @@ When you have completed work on the card, move it to “Testing” where another
 Another defining feature is that work should be delivered continually to a staging or production environment. This column allows anyone on the team to see what work has been released recently.
 
 -----
-\* ©Agile Manifesto Copyright 2001: Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas.
+\*1 ©Agile Manifesto Copyright 2001: Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas. This declaration may be freely copied in any form, but only in its entirety through this notice.
 
-This declaration may be freely copied in any form, but only in its entirety through this notice.
+\*2 ["An Underrated Way for Engineering Teams to Improve Their Workflow" by Karl L. Hughes](https://www.themuse.com/advice/an-underrated-way-for-engineering-teams-to-improve-their-workflow)
