@@ -76,10 +76,8 @@ These are the engineers, designers, testers, and operations people required to d
 
 Finally, scrum is facilitated by a scrum master. This person is a leader, but not necessarily the technical expert or highest ranking manager. They just need to be able to keep the process moving and ensure that timeboxed meetings stay on topic.
 
-While you can really dig in and make yourself an expert in Scrum, I don't think that's the best way for you as a startup CTO to spend your time. You're more likely to borrow pieces of Scrum that help you depending on where you are in your company's lifetime. As you get larger and more rigid processes become important, consider getting deeper training in Scrum, sending one of your team members to train in it, or hiring a Scrum Master to help you.
+You could really dig in and make yourself an expert in Scrum, but I don't think that's the best way for you to spend your time. You're more likely to borrow pieces of Scrum that help you depending on where you are in your company's lifetime. As you get larger and more rigid processes become important, consider getting deeper training in Scrum, sending one of your team members to train in it, or hiring a Scrum Master to help you.
 
-
-### Extreme Programming
 
 ### Kanban
 
@@ -116,6 +114,13 @@ When you have completed work on the card, move it to “Testing” where another
 #### Column 6: Deployed
 
 Another defining feature is that work should be delivered continually to a staging or production environment. This column allows anyone on the team to see what work has been released recently.
+
+Once your board is set up, your team will use the board to visualize their work in progress and keep up with what's coming next. I've found this kind of transparency - making our Kanban board public to everyone in the company - a very powerful tool for building trust with the business. A lot of people look at engineers as living in a black box; it's really hard for non-technical managers to know how things are going without a visualization tool like Kanban in place.
+
+
+### Extreme Programming
+
+
 
 -----
 \*1 ©Agile Manifesto Copyright 2001: Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas. This declaration may be freely copied in any form, but only in its entirety through this notice.
