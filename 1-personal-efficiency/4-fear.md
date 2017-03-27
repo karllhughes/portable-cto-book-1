@@ -32,6 +32,8 @@ Going back to my point in chapter 2, most of the little decisions you make durin
 
 Finally, I am honest with my teammates in one-on-ones and group settings. When I don't know the best decision to make, I tell them. This is a sign of humanity, not weakness, and it increases their empathy for you as a leader. It also gives them a chance to step up and help you out if they know you feel a bit overwhelmed.
 
+MORE ON THIS: https://medium.com/@FlatironSchool/youre-not-an-impostor-how-to-manage-self-expectations-as-a-new-developer-cf8285e04a5e#.xad993rm9
+
 ## Uncertainty
 
 Leaders often must make decisions with incomplete information. When I joined The Graide Network in 2016, I spent a lot of time talking with the founders about the requirements of their platform. The first version was unreliable and had fundamental flaws in the way data was stored, so like many companies dealing with a legacy software stack, we faced a choice between rebuilding or refactoring.
