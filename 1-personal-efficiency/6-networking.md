@@ -8,7 +8,23 @@ Networking rarely bears fruit from day one, so I think a lot of people give up o
 
 ## What is networking?
 
-First, networking is not necessarily going to designated networking events to shake hands and make friends. I've tried this, but it feels gross to me.
+First, networking is not necessarily going to designated networking events to shake hands and make friends. I've tried this, but it feels unnatural to me, so I've developed a different approach.
+
+### 1. Attend community events
+
+If you are fortunate enough to live in a big city, there are probably dozens of professional groups that you can get involved in. If you're in a smaller town, keep a look out for virtual opportunities to get facetime with new people. Conferences, Meetup.com, clubs, and sports leagues are all great ways to branch out, so pick whatever you're most comfortable with.
+
+### 2. Follow up with people
+
+The key to attending events and making them productive is to follow up with people you meet. If you go to a meetup, shake hands with three or four people, and then never follow up your chances of making a meaningful connection is low. I've always had the best luck following up with a coffee or lunch meeting, and then taking it from there.
+
+### 3. Say yes to new opportunities
+
+Get in the habit of saying "Yes," when people invite you to things. I know, it's uncomfortable and risky and it might be a waste of time, but this is how you discover new groups of people. I'm not a party person, but I try to tag along with a friend to one or two group outings per month just to expose myself to new cliques.
+
+### 4. Give back
+
+Finally, volunteering, teaching, or speaking are all great ways to meet new people. If you've ever been to a conference you probably know that the best way to meet people is to be a speaker at the conference. Similarly, doing a guest lecture for a school or code bootcamp can put you in front of a totally new group of developers. Not only is this good for you, it's great for your company's long term brand.
 
 ## A system for keeping in touch
 
