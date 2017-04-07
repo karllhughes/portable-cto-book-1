@@ -120,6 +120,7 @@ Once your board is set up, your team will use the board to visualize their work 
 
 ### Extreme Programming
 
+http://ptgmedia.pearsoncmg.com/images/9780321278654/samplepages/9780321278654.pdf
 
 
 -----
