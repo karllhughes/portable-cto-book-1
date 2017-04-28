@@ -12,7 +12,7 @@ Finding the right balance is hard. Every CTO I know who's grown a startup from 5
 
 ## Where does personal health come in?
 
-It may seem a little out of place in a book about patterns for startup CTOs, but your mind (and the body that carries it) is your greatest asset. It's the reason you got picked for this job, and it'll be the reason you stay in it or the reason you move on to something better someday. If your business is picking up steam, but your personal health is in freefall, you won't have the stamina to stay in the game when your company hits an inevitable speed bump.
+It may seem a little out of place in a book about patterns for startup CTOs, but [your mind (and the body that carries it) is your greatest asset](https://80000hours.org/career-guide/how-to-be-successful/). It's the reason you got picked for this job, and it'll be the reason you stay in it or the reason you move on to something better someday. If your business is picking up steam, but your personal health is in freefall, you won't have the stamina to stay in the game when your company hits an inevitable speed bump.
 
 Scott Adams, a writer, engineer, and the creator of Dilbert has [this to say about fitness](http://blog.dilbert.com/post/103051087451/health-as-a-competitive-edge):
 
