@@ -11,6 +11,11 @@
 - Product planning and prioritization meetings
 - Grooming your backlog
 
+### The role of testing at a startup
+- What kind of testing can you do?
+- How much testing is appropriate?
+- Continuous integration
+
 ### Engineering workflows
 - Technical specifications
 - Dividing work and responsibilities
