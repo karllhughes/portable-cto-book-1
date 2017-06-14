@@ -2,6 +2,7 @@
 
 ### Choosing tools and technologies
 - Use well-established, tried and true tech that you know
+  - You are not google/amazon/linkedin: https://getpocket.com/a/read/1774906855
 - Pick a language everybody on the team knows well
 - Decouple things as much as is reasonable
 - Don't overcomplicate things until you have to
