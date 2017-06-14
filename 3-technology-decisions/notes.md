@@ -9,8 +9,11 @@
   - "Often complexity is generated when there is no willingness to recognized that a non fundamental goal of a project is accounting for a very large amount of design complexity, or is making another more important goal very hard to reach, because there is a design tension among a fundamental feature and a non fundamental one." - http://antirez.com/news/112
 
 ### Testing
+- What kind of testing can you do?
+- How much testing is appropriate?
 - Layers of testing
 - Pragmatic testing of a fluid product
+- Continuous integration
 
 ### Architecture
 - Decouple things
