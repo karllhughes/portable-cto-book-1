@@ -15,6 +15,9 @@
 - Interview process
 - Onboarding
 
+### Meetings
+- 4 essential parts to a good meeting: https://blog.trello.com/productive-team-blueprint-free-guide
+
 ### Performance reviews
 - Weekly checkups
 - Quarterly reviews
