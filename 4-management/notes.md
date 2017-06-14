@@ -27,3 +27,4 @@
 - Standing up for your team
 - Space, volume, comfort
 - Encourage balance
+- Maker vs. manager calendar, time spent
