@@ -1,5 +1,8 @@
 ## Technology decisions
 
+### How much should CTOs code?
+- "Embrace your ability to learn, [but] Be careful not to get so immersed in the minutia that you lose sight of your overall responsibility to drive technology at a broad level." https://www.recode.net/2017/6/15/15332486/cto-code-coding-skills-developer-education-engineer
+
 ### Choosing tools and technologies
 - Use well-established, tried and true tech that you know
   - You are not google/amazon/linkedin: https://getpocket.com/a/read/1774906855

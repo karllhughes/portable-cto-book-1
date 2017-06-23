@@ -10,6 +10,7 @@
 - Triaging incoming bugs and feature requests
 - Product planning and prioritization meetings
 - Grooming your backlog
+- "it's more about understanding what to build and if it’s worth building instead of how to build it" - https://medium.com/@tomastrajan/how-can-you-increase-your-value-as-a-software-engineer-cab9599bbbe
 
 ### Engineering workflows
 - Technical specifications
