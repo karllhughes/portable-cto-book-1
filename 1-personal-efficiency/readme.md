@@ -6,6 +6,7 @@ As the leader of a technology team, you can't expect your employees to achieve a
 
 1. [What is a CTO?](1-what-is-cto.md)
 2. [Defining Success](2-defining-success.md)
-3. [Batching, Focusing, and Delegating](3-batching-focusing-delegating.md)
-4. [Dealing with fear and uncertainty](4-fear.md)
-5. [Finding Balance](5-balance.md)
+3. [Dealing with fear and uncertainty](3-fear.md)
+4. [Finding Balance](4-balance.md)
+5. [Batching, Focusing, and Delegating](5-batching-focusing-delegating.md)
+6. [Networking](6-networking.md)
