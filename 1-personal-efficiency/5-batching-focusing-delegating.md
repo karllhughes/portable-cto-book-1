@@ -1,4 +1,4 @@
-# 3. Batching, Focusing, and Delegating
+# 5. Batching, Focusing, and Delegating
 
 Effective engineering managers must first learn to be effective and efficient engineers. If you're spending every day as a CTO spinning your wheels by bouncing between meetings, answering questions, and things aren't getting done, you've got a problem.
 
@@ -6,9 +6,25 @@ I've found three ideas to be essential for improving my personal productivity as
 
 ## 1. Focusing on the Most Important Tasks
 
+Prioritization is one of the hardest things for startups to do. I think the reason for that is undisciplined founders. For most of their career, they've been forced to go at someone else's speed, obey the rules, and plod through bureaucracy. Now that they've got their startup though, things can change as fast as they can dream them up. This "everything's a priority" feeling will trickle down to you as a CTO and the engineering team you manage, so you've got to be ready.
+
+For example, early in my career I worked at a startup where the founders were young. Investors had given us some money and we had an early version of the product out in the world, but it wasn't taking off like we'd hoped. We didn't have a roadmap; just hypotheses about what would work, and so every day our developers were asked to build new features or pull out existing ones because maybe that would be the magic switch that turned the company around.
+
+Every time an idea came in, it was immediately the most important thing on the table, and all other half-built projects came to a halt. Needless to say, this led to a very poor product and a lot of burnt out employees. Until we hired an engineering/product manager to stem the flow of new ideas and try to organize things, we were running in circles getting very little accomplished.
+
+Now, some of those issues were business issues; some were personality issues; but either way, as the CTO at your startup, it's your job to figure out how to prioritize the flow of ideas from founders, investors, and advisors.
+
+Ideas are cheap. They're easy to produce, and when you start generating them it actually becomes easier to make more. This idea-generation cycle can be challenging for engineers because our work tends to take longer, be more methodical, and need follow-up time to improve. In other words, new projects are rarely completed on their first release; we need time to iterate.
+
+This applies to how you prioritize things for your engineering team, but it also applies to how you prioritize things in your personal workflow. It may be that before your startup has a lot of cash you're the only engineer, and if that's the case prioritization is one of your biggest assets. I'll talk more about product and engineering prioritization later in this book, but for now, let's see what it means to have your personal priorities in order.
+
+### Personal Prioritization
+
+...
+
 ## 2. Batching Similar Work
 
-## 3. Delegating Projects
+## 3. Delegating Effectively
 
 A couple of years ago I got to meet and learn from [Nick Sarillo](http://www.nicksarillo.com/), a Chicago restraunt entrepreneur who's been repeatedly recognized for turning out successful restaurants and having engaged, interested employees. Like most new managers, Nick struggled with delegation when he was new at it too. He would try handing off important tasks to his team and then when someone dropped the ball he'd kick himself for not just doing it on his own.
 
