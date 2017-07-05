@@ -4,6 +4,7 @@ Effective engineering managers must first learn to be effective and efficient en
 
 I've found three ideas to be essential for improving my personal productivity as an engineer and engineering leader or CTO. While your strategy for doing these same things may be different, you must learn to focus, batch, and delegate tasks.
 
+
 ## 1. Focusing on the Most Important Tasks
 
 Prioritization is one of the hardest things for startups to do. I think the reason for that is undisciplined founders. For most of their career, they've been forced to go at someone else's speed, obey the rules, and plod through bureaucracy. Now that they've got their startup though, things can change as fast as they can dream them up. This "everything's a priority" feeling will trickle down to you as a CTO and the engineering team you manage, so you've got to be ready.
@@ -20,9 +21,42 @@ This applies to how you prioritize things for your engineering team, but it also
 
 ### Personal Prioritization
 
-...
+What was the most important thing you did last week at work? What are the three most important things that you've got to get done this week? How many hours did you spend working on them?
+
+You need to be able to answer these questions.
+
+When you're working in a startup as one of the first employees there will be a million opportunities, meetings, and ideas to discuss in addition to articles to read, meetups to attend, and people to meet. While networking and public relations _are_ an important part of an early stage CTO's job, they can't get in the way of the most important tasks you have every week. Here are a few steps you can take to make sure you get your personal work priorities right:
+
+#### 1. Make a to-do list
+It's one of the oldest tricks in the book, but it really works. Make a list each week of all the things you want to get done. Make sure your list is reasonably attainable and prioritized from most important to least important.
+
+#### 2. Look at your list every morning
+Those are the items you need to work on first. Don't come into the office or open up your laptop and get sucked into emails or Linkedin messages for an hour. That can wait. Instead, spend your first two or three hours of really productive time knocking something off your all-important list each morning.
+
+#### 3. Track your time
+I never knew how I was spending my time at work until I downloaded a time-tracking app for my smartphone. Every time I switched tasks I would update the app, and at the end of the week I'd check my time breakdown to see how productive I really was. It might surprise you how little time you really get to spend writing code when you're interrupted by questions or meetings every two hours.
+
 
 ## 2. Batching Similar Work
+
+While tracking what you're doing and keeping an organized list of your priorities will help, you will still inevitably have to do some housekeeping tasks. Answering emails, responding to Slack messages, reviewing pull requests, etc. all take time, but they probably aren't your top priorities for the week.
+
+Batching is a great trick to make those tasks take less time by waiting longer between doing them.
+
+What do I mean by "batching"? Let's look at a simple example.
+
+If you were asked to track the amount of time you spend checking and responding to email every week, you'd find that you probably do it way more often than you think. What do you do when there's a lull in a meeting? How about when you're waiting on someone to meet you for lunch? Email is always there, so it's easy to just hop on your phone and see what's new.
+
+The thing is that 99.9% of a CTO's emails don't have to be answered immediately. If you're honest with yourself you could probably wait until the end of the day or at least until lunch to respond to most of them. Many don't even require a response at all.
+
+So what can you do to stop wasting time on email? Do it less, but budget a block of time for it every day.
+
+Turn off the notifications on your phone and laptop so it's not constantly pinging you, and just set yourself a single once-per-day calendar reminder to check your email at 5pm. Spend 30-60 minutes on it and then leave it until the next afternoon.
+
+Try it for a week and you'll be amazed how much more productive you are during the day. Uninterrupted blocks of time are the key to being a productive developer, so while you're still in charge of writing code or other high-concentration tasks, batch all your smaller tasks and relegate them to specific time slots throughout the week.
+
+Another good example of batching is how you read news or blog posts. If you read every  article that comes into your social feeds as soon as they appear you'll waste way too much time hopping around the web chasing news. Instead, keep a list of links to articles you want to read and set aside an hour every week to sit down and really read them. Not only will you comprehend your reading more this way, you also won't get distracted by every news article that flies at you. You can always read it later.
+
 
 ## 3. Delegating Effectively
 
@@ -75,3 +109,4 @@ Sometimes the benefits of a project or task are well-understood and sometimes th
 
 When I say "consequences" here, I'm usually not talking about an ultimatum. Some managers might be able to do the whole, "fix it or you're fired!" thing, but that's not my style. When my employees are working on mission-critical projects I explain to them how their work will have an impact on the startup and how we all will benefit if it's executed well. If not, we may miss a deadline, lose out on serious sales money, or lose the trust of our fellow team members. All those are bad enough that you don't need to hang someone's job over their head.
 
+If you're interested in learning more about focusing, delegating, or batching tasks, get your hands on a copy of The Four Hour Workweek. While Tim Ferris' title might be a little gimmicky, it has some really good tips for making the most of your time and becoming more efficient.
