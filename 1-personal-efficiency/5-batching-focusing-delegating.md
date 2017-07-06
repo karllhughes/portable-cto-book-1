@@ -7,6 +7,8 @@ I've found three ideas to be essential for improving my personal productivity as
 
 ## 1. Focusing on the Most Important Tasks
 
+> "You may need to do fifty things a day in New York, but I’d rather to do some reading in my office and do one to two things a day and do them well," - [Warren Buffet](https://www.americanexpress.com/us/small-business/openforum/articles/successful-entrepreneurs-secrets-to-mastering-work-life-balance/)
+
 Prioritization is one of the hardest things for startups to do. I think the reason for that is undisciplined founders. For most of their career, they've been forced to go at someone else's speed, obey the rules, and plod through bureaucracy. Now that they've got their startup though, things can change as fast as they can dream them up. This "everything's a priority" feeling will trickle down to you as a CTO and the engineering team you manage, so you've got to be ready.
 
 For example, early in my career I worked at a startup where the founders were young. Investors had given us some money and we had an early version of the product out in the world, but it wasn't taking off like we'd hoped. We didn't have a roadmap; just hypotheses about what would work, and so every day our developers were asked to build new features or pull out existing ones because maybe that would be the magic switch that turned the company around.

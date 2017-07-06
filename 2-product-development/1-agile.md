@@ -117,11 +117,12 @@ Another defining feature is that work should be delivered continually to a stagi
 
 Once your board is set up, your team will use the board to visualize their work in progress and keep up with what's coming next. I've found this kind of transparency - making our Kanban board public to everyone in the company - a very powerful tool for building trust with the business. A lot of people look at engineers as living in a black box; it's really hard for non-technical managers to know how things are going without a visualization tool like Kanban in place.
 
+## Finding an Agile Flow That Works
+I don't believe there are "right" answers for how products are developed. Some teams use strict agile methods outlined above, some use other methods like [Extreme Programming](http://www.extremeprogramming.org/). Other companies have built their own processes.
 
-### Extreme Programming
+Your job as CTO is to find a product development workflow that works for you, so throughout the rest of this section I'll outline further details for my process, but keep in mind that you may come up with a different system that's better for you.
 
-http://ptgmedia.pearsoncmg.com/images/9780321278654/samplepages/9780321278654.pdf
-
+Still, I find it helpful to read about others' models before I break off and build my own, so I hope this section will give you a base that lets you create your own winning product development process.
 
 -----
 \*1 ©Agile Manifesto Copyright 2001: Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas. This declaration may be freely copied in any form, but only in its entirety through this notice.
