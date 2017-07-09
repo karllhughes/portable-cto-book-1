@@ -6,7 +6,9 @@ Before you dive into your goals and start building processes, it's important to 
 
 It turns out that this isn't quite as simple to define as you might think. CTOs at startups are in a unique situation as their role will change over time as the company evolves and even in larger organizations, "CTO" is a [relatively new role that has yet to be unanimously defined](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.158.1721&rep=rep1&type=pdf).
 
-At an early stage startup, [the CTO is generally a catch-all](https://www.karllhughes.com/posts/roles-of-startup-cto). He will fill in any gaps left unfilled by other product-related employees whether they're engineers, product managers, designers, architects, or QA specialists. This means that a successful CTO at a startup must play many roles in the company, and be ready to learn new skills on the fly. You're not going to be able to hire people to do everything for you on day one. Here are just some of the skills you'll want to ready for as an early stage startup's CTO:
+At an early stage startup, [the CTO is generally a catch-all](https://www.karllhughes.com/posts/roles-of-startup-cto). He will fill in any gaps left unfilled by other product-related employees whether they're engineers, product managers, designers, architects, or QA specialists. This means that a successful CTO at a startup must play many roles in the company, and be ready to learn new skills on the fly. You're not going to be able to hire people to do everything for you on day one. 
+
+Here are just some of the skills you'll want to ready for as an early stage startup's CTO:
 
 ### 1. Lead engineer for the MVP (Minimum Viable Product)
 
@@ -60,4 +62,4 @@ You can think of your role as a circle, where your responsibilities lie on the o
 
 ![](https://i.imgur.com/7qlleuE.png)
 
-As the company grows, the CTO will ideally transition out of a hands-on role and into a true upper management position. Throughout the rest of this text, I hope to give you some tools that will help you make that transition, but it all starts with personal efficiency.
+As the company grows, the CTO will [ideally transition out of a hands-on role and into a true upper management position](https://zapier.com/engineering/startup-cto/). Throughout the rest of this text, I hope to give you some tools that will help you make that transition, but it all starts with personal efficiency.

@@ -5,3 +5,6 @@ Small technology teams are single-threaded - you can't effectively do everything
 ## Chapters
 
 1. [Agile in a Nutshell](1-agile.md)
+2. [Developing an MVP](2-developing-an-mvp.md)
+3. Refining a Product Process - A product process that ensures reliability, maintainability, proper prioritization
+4. Stepping Away from the Critical Path - As you build a team, learning how to step off and let them do the haevy lifting

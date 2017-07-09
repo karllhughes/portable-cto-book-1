@@ -21,3 +21,6 @@
 ### Architecture
 - Decouple things
 - When in doubt, choose the simplest path, you can make it more complex later
+- "Architecture is expensive, especially when a new domain is being explored. Getting the system right seems like a pointless luxury once the system is limping well enough to ship. An investment in architecture usually does not pay off immediately. Indeed, if architectural concerns delay a product’s market entry for too long, then long-term concerns may be moot. Who benefits from an investment in architecture, and when is a return on this investment seen? Money spent on a quick-and-dirty project that allows an immediate entry into the market may be better spent than money spent on elaborate, speculative architectural fishing expedition. It’s hard to recover the value of your architectural assets if you’ve long since gone bankrupt." - Big Ball of Mud, http://www.laputan.org/mud/mud.html
+- "focus first on features and functionality, then focus on architecture and performance." - Big Ball of Mud, http://www.laputan.org/mud/mud.html
+- "Make it work. Make it right. Make it fast" - http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
