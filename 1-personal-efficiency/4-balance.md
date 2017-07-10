@@ -18,7 +18,7 @@ Scott Adams, a writer, engineer, and the creator of Dilbert has [this to say abo
 
 > "Fit people have more energy to put into every task. And we all know that humans perform better when they have more energy. Studies back that observation...Energy influences your optimism, your ambition, and how others see you. Those are big deals too."
 
-So [make a long term investment in yourself](https://www.karllhughes.com/posts/health-investment-success) by eating well, working out at least three times per week, and avoiding excess.
+So [make a long term investment in yourself](https://www.karllhughes.com/posts/health-investment-success) by eating well, working out at least three times per week, [sleeping 7 to 8 hours per night](https://codewithoutrules.com/2017/07/07/dont-code-at-2am/), and avoiding excess.
 
 ## Financial success beyond the IPO
 
