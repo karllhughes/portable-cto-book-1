@@ -61,7 +61,7 @@ I've written more about the process of cobbling together third party services as
 
 The point is though that Packback was able to build a real product and sell it to real users without investing any real developer time, and I would argue that most software businesses could probably start the same way. While the grand vision that founders have might be impossible without custom code, the first step on a long journey is to get people using your product. You can't do that with just an idea.
 
-### Running a Business on Google Sheets
+### Running a Business on Spreadsheets
 
 Packback isn't the only company that has run a product in Google Sheets or Excel files.
 
@@ -69,13 +69,24 @@ One of the first companies I worked for in college tested power plants. With mil
 
 While Excel might not be as clean or flashy as a custom UI in an app or website, it can certainly get the job done. Spreadsheets are universal - every business person knows how to open and manipulate an Excel document - and extremely versatile. Even without code you can automate things, build advanced formulas with conditional logic, and decorate your documents with charts, graphs, and images. It's probably the most powerful engine for an MVP in software development today.
 
-### Building Websites
+When I first joined The Graide Network, the product was in its very early stages. The code that was there had been built by a low-cost offshore team, so the reliability was low and new features frequently "broke". Since the founders were non-technical, they had to find workarounds for when their MVP fell down, so they simply fell back to spreadsheets and emails.
 
+This allowed them to generate revenue even before having a fully-baked product, which in turn allowed them to raise money to hire developers and scale up their operations. Many times, founders get stuck focusing on building a perfect product before they sell anything to customers, but this is a dangerous move for companies that should be in the MVP stage.
 
-### Taking Payments
+### Overbuilding the MVP
 
-For some reason, a lot of people running startups are afraid of simply invoicing customers. I guess they've gotten used to filling out forms online, so they expect nobody to be willing to pay without a secure online payments page. Businesses have been exchanging money via checks and cash for a long time though, so don't jump to the conclusion that you have to set up a payment system from day 1.
+I've had to opportunity to learn from both the successes and mistakes of many other CTOs in Chicago. While I've heard many stories of overbuilding MVPs, one sticks out in particular. I've changed the names of the company and people involved, but the number of examples like this are amazingly common.
 
-Is it possible that someone won't pay you if you don't charge up front? Yes, but in the MVP phase, you're really trying to get customer feedback over money.
+My friend John was the founder and CTO at a startup that collects data and essentially sells it to customers. This is an increasingly common business model for startups as companies are interested in "big data" but often lack the expertise needed to collect and organize it. John's startup was in this industry, but like many early stage companies, they didn't really know who their customer was.
 
-### Transitioning from MVP to Version 1
+That, of course, didn't stop them from raising money on the promise of better data available to everyone. They put together a product designed for the consumer market, gave away most of their data for free, and then sold a premium tier access to their biggest users. Building a product that works well for thousands or millions of users is expensive, and because only a certain percentage will ever become paid users, it can take a long time to reach profitablity.
+
+Still, investors saw lots of companies making this kind of product, and John's company raised over $2 million promising to capture a percentage of a highly lucrative consumer market. The continued beefing up the product, but sales never came. They made a few sales, but such a laughably small number that it was better to tell investors they were focusing on grabbing free users who they would later upsell rather than admit they didn't have a product anyone wanted to pay for.
+
+Eventually things came to a head when the company started to run out of money. With less than 3 months of runway, they started letting people go and looking for an emergency round of funding. Raising money when you're cutting jobs is never a good thing because it means investors can cut your valuation in John's case, they even got old investors to give up much of their equity.
+
+The good thing about going through such desperate times was that the company _had_ to focus on building a real business rather than making a shiny consumer product. They started talking to companies who would license some of their software or pay for access to mass amounts of data, and built a very minimal product to deliver it to them. Many of the consumer-focused product features they built turned out to be wasted effort, but they were able to salvage some of their core data collection and organization services for a new customer who had money and wanted their data.
+
+It's easy in hindsight to ask why John's company didn't just go for enterprise sales from day one. It's also easy in hindsight to see that they overbuilt a product for a market that had neither the ability or the need for it. That said, half the CTOs I know have made this mistake at some point in their career because as engineers, we have a tendancy to build first and think of the business second.
+
+Don't make this mistake. Build a truly lean MVP; rely on manual, non-scalable architecture; discover your business. Once you have a model that you know can make money and that the market will pay for it's time to enter the next phase of your early startup's life-cycle.
