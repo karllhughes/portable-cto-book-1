@@ -90,3 +90,4 @@ The good thing about going through such desperate times was that the company _ha
 It's easy in hindsight to ask why John's company didn't just go for enterprise sales from day one. It's also easy in hindsight to see that they overbuilt a product for a market that had neither the ability or the need for it. That said, half the CTOs I know have made this mistake at some point in their career because as engineers, we have a tendancy to build first and think of the business second.
 
 Don't make this mistake. Build a truly lean MVP; rely on manual, non-scalable architecture; discover your business. Once you have a model that you know can make money and that the market will pay for it's time to enter the next phase of your early startup's life-cycle.
+
