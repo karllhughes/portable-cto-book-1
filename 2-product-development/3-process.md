@@ -6,15 +6,15 @@ Before you jump in with both feet and start creating an amazing, multi-tiered ar
 
 In the rest of this chapter I'll offer the process I've used to build software at early stage startups. This process works with a team of 1 engineer all the way up to a team of 5 or 6 engineers. Once you outgrow this process, you're getting out of the "early stage startup" designation, so I'll leave that to another author to cover.
 
-### 1. Long-Term Planning
+### 1. Quarterly Product Roadmap Session
 
 Early stage startups don't need to do 12 month product plans. I mean, you _can_, but I've never seen one at a < 10 person startup that actually came to fruition. Things are wildly in-flux at this stage, so rather than spending time in long-term planning meetings where you imagine a future you haven't created yet, look at the next 3 months. What things are most critical to your immediate survival and will contribute to your long-term vision while still achieving results in a 3-month timeline? Where can you differentiate yourself from your competition to your first 100 or 1000 customers?
 
-Aim to have 1 long-term planning meeting with the executive team every 3 months where you look back at the big projects you've done in the past quarter and try to prioritize big projects for the upcoming quarter. The structure of this meeting can be as follows:
+Aim to have 1 product roadmap meeting with the executive team every 3 months where you look back at the big projects you've done in the past quarter and try to prioritize big projects for the upcoming quarter. The structure of this meeting can be as follows:
 
 #### Review the Company's Goals (10 minutes)
 
-Make sure everyone in the room is on the same page about the company's overarching goals before proceeding. Even if you discuss these things in board meetings or internally all the time it helps to have them laid out before the product talk starts.
+Make sure everyone in the room is on the same page about the company's overarching goals before proceeding. Even if you discuss these things in board meetings or internally all the time it helps to have them laid out before the product talk starts. Write these big-picture goals down (preferrably in a visible place) so that as you talk about priorities for the coming quarter everyone has to see them in relation to the business' goals.
 
 #### Review the Past Quarter (10 minutes)
 
@@ -34,18 +34,29 @@ Another thing to keep in mind is that this is not a planning session. You will n
 
 Finally, go back over your company goals and new product priorities. Do they align? If not, is there a good reason why they don't? It may seem obvious that a startup's technical team should be solving business problems, but all too often startups put their tech teams into solving imaginary problems like scaling before they actually become "problems" for anyone in the business.
 
-As for the execution of meetings like this, sticky notes can be good; a whiteboard will work; a tool like Trello is also good if you've got a large TV or projector for everyone to see.
+As for the execution of meetings like this, sticky notes can be good; a whiteboard will work; a tool like Trello is also good if you've got a large TV or projector for everyone to see. Just make sure everyone on the executive team can block off the time to invest themselves in this meeting fully.
 
-### 2. Weekly Planning Meetings
+### 2. Weekly Product Orientation Meetings
 
-When your team is just a few people, your process will be much different from what it becomes with a team of 50 or 100.
+The next meeting cadence you want to establish for product development is a weekly planning and prioritization review.
 
-### 3. Triaging Bugs and Feature Requests
+#### Prioritizing Next Up
+
+At this meeting your goal is to look at the big picture projects you planned for and start breaking them down into actionable plans. I would not encourage you to write specifications (business or technical) during this meeting if you can help it though. Ideally, you will look at the projects on your list and divy them up between team members who know the business problem you're trying to solve best.
+
+Each week at this meeting, you should look at the notes each team member (let's call them project owners) has compiled for their project and make sure everyone agrees with the requirements and notes they have made. If there's a dispute, allow a short discussion. If the dispute is not resolved, then table the issue and plan a meeting dedicated to working out that issue.
+
+#### Triaging Bugs and Feature Requests
+
+
 
 ### 4. Speccing Work for Engineers
 
-### 5. Development and Testing
+### 5. Development, Testing, and Demonstrating
 
 ### 6. Deployments
 
 ## Tools and Other Tips
+
+When your team is just a few people, your process will be much different from what it becomes with a team of 50 or 100.
+
