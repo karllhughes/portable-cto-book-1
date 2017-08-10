@@ -10,7 +10,7 @@ The term MVP, which stands for “minimum viable product” gets thrown around a
 
 The goal of an MVP in business development is to create something that meets just enough of the business need to test or validate an assumption, allowing the entrepreneur (or intrapreneur) to save on scarce resources until the project is proven “viable.” In The Lean Startup, Ries says that an MVP is “not necessarily the smallest product imaginable...it is simply the fastest way to get through the Build-Measure-Learn feedback loop with the minimum amount of effort.”
 
-So an MVP is less about building a product, and more about [learning what your product needs to be](https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/). I think of the MVP as a “pre-product” phase. Some good examples of an MVP might be:
+So an MVP is less about building a product, and more about [learning what your product needs to be](https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/3-1-defining-mvp.md). I think of the MVP as a “pre-product” phase. Some good examples of an MVP might be:
 
 - A software as a service company runs a pilot service with three paying customers using spreadsheets, online forms, and email.
 - An app maker creates mock-ups of his app, creates a free landing page website, and measures the number of people who click the “Download Now” button.
