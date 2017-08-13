@@ -24,6 +24,7 @@
   - Not profitable
   - Solving a problem in an innovative way (eg: Uber) or creating an entirely new market (eg: Facebook)
   - Most will fail
+- How is it different from small business?
 - Why do people want to join/start/work at them?
   - Idealistic
   - Solving big problems
