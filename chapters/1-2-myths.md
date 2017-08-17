@@ -1,3 +1,5 @@
+add: - Dan Lyons' startup bubble
+
 When I first graduated from college and went looking for a job with a startup I had no idea what to expect. I knew what I didn’t want - I had done internships with some huge corporations already - but finding honest accounts from engineers who had worked at startups was difficult. Most of the articles I found were sugarcoated accounts of the rare success stories. Many of the early employees at Google and Apple and Facebook had written books and blog posts galore, but what about the thousands of less lucky startup employees out there? What about the average startup engineer's story?
 
 At least [three out of four startups fail](https://www.wsj.com/news/articles/SB10000872396390443720204578004980476429190), and most of them that do succeed don’t have anywhere near the exit that the household names above have had. I suspected - and have since confirmed - that the true experience of working at a startup is much more textured.
